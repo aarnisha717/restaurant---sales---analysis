@@ -110,7 +110,7 @@ restaurant-orders-python-project
 
 ###### **Most Ordered Food Item**
 ![Most Ordered Food Item](output/most_ordered_food_item_chart.png)
-###### **Insights:**
+###### **Insights:** Pizza is the most ordered item, followeed by Brownies in second place and Fries in third, highlighting customer favorites.
 
 
 ###### **Category Wise Sales(1)**
