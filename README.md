@@ -124,7 +124,7 @@ restaurant-orders-python-project
 
 
 ###### **Category Wise Sales(2)**
-![Category Wise Sales(2)](output/category_wise_sales2_charts.png)
+![Category Wise Sales(2)](output/category_wise_sales2_chart.png)
 ###### **Insights:**
 
 
