@@ -120,7 +120,8 @@ restaurant-orders-python-project
 
 ###### **Average Price**
 ![Average Price](output/average_price_chart.png)
-###### **Insights:**
+###### **Insights:**  The average price tends to vary with quantity, showing that smaller orders have lower prices whiile
+larger orders reach higher average prices
 
 
 ###### **Category Wise Sales(2)**
