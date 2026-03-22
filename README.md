@@ -115,12 +115,12 @@ restaurant-orders-python-project
 
 ###### **Category Wise Sales(1)**
 ![Category Wise Sales(1)](output/category_wise_sales(1)_chart.png)
-###### **Insights:**
+###### **Insights:**  Pizza leads in sales, while Brownies hold the secound spot, showing customer favorites in the menu.
 
 
 ###### **Average Price**
 ![Average Price](output/average_price_chart.png)
-###### **Insights:**  The average price tends to vary with quantity, showing that smaller orders have lower prices whiile larger orders reach higher average prices
+###### **Insights:**  The average price tends to vary with quantity, showing that smaller orders have lower prices whiile larger orders reach higher average prices.
 
 
 ###### **Category Wise Sales(2)**
