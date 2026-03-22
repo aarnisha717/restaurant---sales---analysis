@@ -118,20 +118,17 @@ restaurant-orders-python-project
 ###### **Insights:**
 
 
-###### **Category Wise Sales(2)**
-![Category Wise Sales(2)](output/category_wise_sales_2_charts.png)
-###### **Insights:**
-
-
 ###### **Average Price**
 ![Average Price](output/average_price_chart.png)
 ###### **Insights:**
 
 
+###### **Category Wise Sales(2)**
+![Category Wise Sales(2)](output/category_wise_sales2_charts.png)
+###### **Insights:**
+
 
 ### **Conclusion** 
-
-
 
 This analysis helps understand customer preferences and restaurant sales trends.
 
