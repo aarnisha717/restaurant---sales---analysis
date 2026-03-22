@@ -125,7 +125,7 @@ restaurant-orders-python-project
 
 ###### **Category Wise Sales(2)**
 ![Category Wise Sales(2)](output/category_wise_sales2_chart.png)
-###### **Insights:**
+###### **Insights:**  Main,Starter and Dessert categories have equal sales, showing balanced customer preferences.
 
 
 ### **Conclusion** 
