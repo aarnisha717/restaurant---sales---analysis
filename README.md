@@ -113,13 +113,13 @@ restaurant-orders-python-project
 ###### **Insights:**
 
 
-###### **Category Wise Sales(i)**
-![Category Wise Sales(i)](output/category_wise_sales(1)_chart.png)
+###### **Category Wise Sales(1)**
+![Category Wise Sales(1)](output/category_wise_sales(1)_chart.png)
 ###### **Insights:**
 
 
-###### **Category Wise Sales(ii)**
-![Category Wise Sales(ii)](output/category_wise_sales(2)_charts.png)
+###### **Category Wise Sales(2)**
+![Category Wise Sales(2)](output/category_wise_sales_2_charts.png)
 ###### **Insights:**
 
 
