@@ -101,6 +101,31 @@ restaurant-orders-python-project
 |--README.md(Project description)
 
 
+### **Visualizations**
+
+###### **Peak Order Time**
+![Peak Order Time](output/peak_order_time_chart.png)
+###### **Insights:** 
+
+
+###### **Most Ordered Food Item**
+![Most Ordered Food Item](output/most_ordered_food_item_chart.png)
+###### **Insights:**
+
+
+###### **Category Wise Sales(i)**
+![Category Wise Sales(i)](output/category_wise_sales(i)_chart.png)
+###### **Insights:**
+
+
+###### **Category Wise Sales(ii)**
+![Category Wise Sales(ii)](output/category_wise_sales(ii)_charts.png)
+###### **Insights:**
+
+
+###### **Average Price**
+![Average Price](output/average_price_chart.png)
+###### **Insights:**
 
 
 
