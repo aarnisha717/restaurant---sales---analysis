@@ -105,7 +105,7 @@ restaurant-orders-python-project
 
 ###### **Peak Order Time**
 ![Peak Order Time](output/peak_order_time_chart.png)
-###### **Insights:** 
+###### **Insights:**  Most orders occur in the evening(47.2%), followed by the afternoon(27.4%) and morning(25.4%), showing peak customer activity later in the day.
 
 
 ###### **Most Ordered Food Item**
